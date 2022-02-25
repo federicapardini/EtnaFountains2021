@@ -1,18 +1,18 @@
-# Real-time tephra forecast at Mt.Etna (Italy) <br/> Numerical Results
+# Real-time tephra forecast at Mt. Etna (Italy) <br/> Numerical Results
 
 <p align="center">
   <img src="./logo_dir/Logo_INGV.png" width=150pt />
 </p>
 
 
-This repository provides volcanic hazard maps for tephra fallout and dispersal of three eruptive events occurred at Mt.Etna (Italy) in 2021. The considered eruptions took place on:
+This repository provides volcanic hazard maps for tephra fallout and dispersal of three eruptive events occurred at Mt. Etna (Italy) in 2021. The considered eruptions took place on:
 
 * 16 February 2021 
 * 28 February 2021 
 * 4 March    2021 
 
 
-The Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt.Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
+The Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt. Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
 
 The main features of the workflow are:
 
@@ -21,8 +21,6 @@ The main features of the workflow are:
 * Ensemble of simulations are performed and probabilistic hazard maps are produced
 
 ### Forecast products
-
-Forecasts are provided at hours +1, +2, +3, +6, +9 and +12 from the issuing of each red VONA and at hours +3, +6, +9 and +12 from the issuing of the orange VONA.
 
 |Type of product|Description|
 | :--- | :--- |
