@@ -32,9 +32,9 @@ The main features of the workflow are:
 ### How to display the results
 * Go to the FORECAST_RESULTS directory
 * Select the directory of interest (each directory is named according to the time of issue of the first red VONA of the event)
-    * The main results are in the file *README.md* which is automatically displayed by selecting the directory of interest
-    * Additional information are in *Supplementaty_page.md*
-    * All the figures shown in the *README.md* and more are collected in the directory *figures*. Additional files reporting the eruptive source parameters used in the simulations are in the directory *input_data*
+    * The main results are automatically displayed by selecting the directory of interest
+    * Additional information are in *Supplementaty_page*
+    * All the figures shown in the main page and more are collected in the directory *figures*. Additional files reporting the eruptive source parameters used in the simulations are in the directory *input_data*
 
 
 
