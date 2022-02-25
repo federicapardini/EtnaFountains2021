@@ -1,4 +1,4 @@
-# Real-time tephra forecast at Mt. Etna (Italy) <br/> Numerical Results
+# Real-time tephra forecast at Mt. Etna (Italy) <br/> Numerical results for three lava fountains of the 2021 eruptive cycle
 
 <p align="center">
   <img src="./logo_dir/Logo_INGV.png" width=150pt />
