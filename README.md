@@ -5,14 +5,14 @@
 </p>
 
 
-This repository provides volcanic hazard maps for tephra fallout and dispersal at Mt.Etna (Italy). Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt.Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
+This repository provides volcanic hazard maps for tephra fallout and dispersal of three eruptive events occurred at Mt.Etna (Italy) in 2021. The considered eruptions took place on:
 
-The repository contains the numerical results of three lava fountain episodes occurred at Mt.Etna in 2021:
+16 February 2021 \\
+28 February 2021 \\
+ 4 March    2021 \\
 
-16 February 2021
-28 February 2021
- 4 March    2021
 
+The Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt.Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
 
 The main features of the workflow are:
 
@@ -38,7 +38,6 @@ Forecasts are provided at hours +1, +2, +3, +6, +9 and +12 from the issuing of e
     * Additional information are in *Supplementaty_page.md*
     * All the figures shown in the *README.md* and more are collected in the directory *figures*. Additional files reporting the eruptive source parameters used in the simulations are in the directory *input_data*
 
-### Please note that the numerical procedure is currently under development and daily updated
 
 
 
