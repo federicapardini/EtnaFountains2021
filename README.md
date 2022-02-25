@@ -1,4 +1,4 @@
-# Real-time tephra forecast at Mt.Etna (Italy) - Numerical Results
+# Real-time tephra forecast at Mt.Etna (Italy) <br/> Numerical Results
 
 <p align="center">
   <img src="./logo_dir/Logo_INGV.png" width=150pt />
