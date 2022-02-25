@@ -1,4 +1,4 @@
-# Real-time tephra forecast at Mt.Etna (Italy)
+# Real-time tephra forecast at Mt.Etna (Italy) - Numerical Results
 
 <p align="center">
   <img src="./logo_dir/Logo_INGV.png" width=150pt />
@@ -7,10 +7,17 @@
 
 This repository provides volcanic hazard maps for tephra fallout and dispersal at Mt.Etna (Italy). Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt.Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
 
+The repository contains the numerical results of three lava fountain episodes occurred at Mt.Etna in 2021:
+
+16 February 2021
+28 February 2021
+ 4 March    2021
+
+
 The main features of the workflow are:
 
 * Meteo data source: ARPA-SIM Mesoscale Model
-* Numerical models used: eruptive column model PLUME-MoM-TSM coupled with the TTDM HYSPLIT
+* Numerical models used: eruptive column model PLUME-MoM-TSM (de'Michieli Vitturi, M., & Pardini, F. 2021) coupled with the Tephra Transport Dispersal Model HYSPLIT (Stein et al., 2015)
 * Ensemble of simulations are performed and probabilistic hazard maps are produced
 
 ### Forecast products
