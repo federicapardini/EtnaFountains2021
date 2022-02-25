@@ -36,6 +36,7 @@ The main features of the workflow are:
     * Additional information are in *Supplementaty_page*
     * All the figures shown in the main page and more are collected in the directory *figures*. Additional files reporting the eruptive source parameters used in the simulations are in the directory *input_data*
 
+## References
 
 
 
