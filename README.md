@@ -7,9 +7,9 @@
 
 This repository provides volcanic hazard maps for tephra fallout and dispersal of three eruptive events occurred at Mt.Etna (Italy) in 2021. The considered eruptions took place on:
 
-16 February 2021 \\
-28 February 2021 \\
- 4 March    2021 \\
+* 16 February 2021 
+* 28 February 2021 
+* 4 March    2021 
 
 
 The Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt.Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
