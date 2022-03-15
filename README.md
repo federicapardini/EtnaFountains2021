@@ -1,18 +1,18 @@
-# Real-time tephra forecast at Mt. Etna (Italy) <br/> Numerical results for three lava fountains of the 2021 eruptive cycle
+# Real-time tephra fallout and dispersal assessment at Mt. Etna (Italy) <br/> Numerical results for three lava fountain episodes of the 2021 paroxysmale cycle
 
 <p align="center">
   <img src="./logo_dir/Logo_INGV.png" width=150pt />
 </p>
 
 
-This repository provides volcanic hazard maps for tephra fallout and dispersal of three eruptive events occurred at Mt. Etna (Italy) in 2021. The considered eruptions took place on:
+This repository provides probabilistic volcanic hazard maps for tephra fallout and dispersal of three paroxysmal episodes at the summit craters of Mt. Etna. The investigated lava fountain episodes occurred on:
 
 * 16 February 2021 
 * 28 February 2021 
 * 4 March    2021 
 
 
-The Numerical forecasts are produced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology - Osservatorio Etneo (INGV-OE), which is the reference institure for the monitoring of Mt. Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology - Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
+Numerical forecasts areproduced by an automated workflow which is activated in real-time when explosive eruptions with tephra emission occur. The workflow is informed about the state of the volcano by the Volcano Observatory Notifications for Aviation (VONAs) issued by the Italian National Institute of Geophysics and Volcanology-Osservatorio Etneo (INGV-OE), which is the reference institute for the monitoring of Mt. Etna. The numerical procedure has been developed and tested at the Italian National Institute of Geophysics and Volcanology-Sezione di Pisa (INGV-Sezione di Pisa), with the contribution of colleagues from the INGV-OE.
 
 The main features of the workflow are:
 
@@ -38,5 +38,14 @@ The main features of the workflow are:
 
 ## References
 
+Andronico, D., Cannata, A., Di Grazia, G., & Ferrari, F. (2021). The 1986–2021 paroxysmal episodes at the summit craters of Mt. Etna: Insights into volcano dynamics and hazard. Earth-Science Reviews, 220, 103686.
 
+Corradini, S., Guerrieri, L., Lombardo, V., Merucci, L., Musacchio, M., Prestifilippo, M., ... & Stelitano, D. (2018). Proximal monitoring of the 2011–2015 Etna lava fountains using MSG-SEVIRI data. Geosciences, 8(4), 140.
 
+de'Michieli Vitturi, M., & Pardini, F. (2021). PLUME-MoM-TSM 1.0. 0: a volcanic column and umbrella cloud spreading model. Geoscientific Model Development, 14(3), 1345-1377.
+
+Pardini, F., Corradini, S., Costa, A., Esposti Ongaro, T., Merucci, L., Neri, A., ... & de’Michieli Vitturi, M. (2020). Ensemble-Based Data Assimilation of Volcanic Ash Clouds from Satellite Observations: Application to the 24 December 2018 Mt. Etna Explosive Eruption. Atmosphere, 11(4), 359.
+
+Scollo, S., Prestifilippo, M., Bonadonna, C., Cioni, R., Corradini, S., Degruyter, W., ... & Pecora, E. (2019). Near-real-time tephra fallout assessment at Mt. Etna, Italy. Remote Sensing, 11(24), 2987.
+
+Stein, A. F., Draxler, R. R., Rolph, G. D., Stunder, B. J., Cohen, M. D., & Ngan, F. (2015). NOAA’s HYSPLIT atmospheric transport and dispersion modeling system. Bulletin of the American Meteorological Society, 96(12), 2059-2077.
